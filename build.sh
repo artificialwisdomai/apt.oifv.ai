@@ -1,2 +1,8 @@
-# Push the debian build on update
-cp -aR $HOME/build/debian/* .
+DEBIAN_DIR="./"
+sudo apt-get -y install reprepro
+mkdir -p ${DEBIAN_DIR}/conf
+cp ${HOME}/distributions ${DEBIAN_DIR}/conf/distributions
+reprepro -S utils --basedir ${DEBIAN_DIR} includedeb bullseye ${HOME}/debs/cloud-hypervisor_27.0.0_amd64.deb
+reprepro -S utils --basedir ${DEBIAN_DIR} includedeb bullseye ${HOME}/debs/virtiofsd_1.4.0_amd64.deb
+gpg --output oifv.ai.gpg --armor --export oifv@computelify.ai
+#mv oifv.ai.gpg ${DEBIAN_DIR}

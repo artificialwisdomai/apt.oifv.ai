@@ -1,7 +1,7 @@
-Origin: apt.oifv.ai/debian
-Label: apt.oifv.ai/debian
+Label: OIFV.ai
+Origin: Computelify
 Codename: bullseye
 Architectures: amd64
-Components: main
+Components: stable
 Description: OIFV Debian Repository
 SignWith: yes

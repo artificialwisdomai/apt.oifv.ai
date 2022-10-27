@@ -1,0 +1,7 @@
+Origin: oifv-ai.github.io/debian
+Label: oifv-ai.github.io/debian
+Codename: bullseye
+Architectures: amd64
+Components: main
+Description: OIFV Debian Repository
+SignWith: yes

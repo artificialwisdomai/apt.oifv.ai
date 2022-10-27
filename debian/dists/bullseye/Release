@@ -1,0 +1,19 @@
+Origin: oifv-ai.github.io/debian
+Label: oifv-ai.github.io/debian
+Codename: bullseye
+Date: Thu, 27 Oct 2022 12:32:23 UTC
+Architectures: amd64
+Components: main
+Description: OIFV Debian Repository
+MD5Sum:
+ 77fb50c60da4b4566af17f4dc9367bbb 14183 main/binary-amd64/Packages
+ bca1a03dba5f48947d81d445db5f3d96 5533 main/binary-amd64/Packages.gz
+ e9a79ea14ab63b818e07b003dc95af37 137 main/binary-amd64/Release
+SHA1:
+ d95893de2feccff5aa34354626ee5e6f976fe329 14183 main/binary-amd64/Packages
+ 0e86678af07a9f50909a80114fbf1e3a66d59a22 5533 main/binary-amd64/Packages.gz
+ 09604a6bebd9da185a9f10fc5e3735332618aec9 137 main/binary-amd64/Release
+SHA256:
+ 140cdbb9b9a6d20906e91427ee341211995388819188932a4e7675f3c418ccaf 14183 main/binary-amd64/Packages
+ f55243a1ea5fa8605d0d351354fef05a8888e5b9a987d41e838e791b552f9c1d 5533 main/binary-amd64/Packages.gz
+ 7cd8b7a765a091b0c5dae6c7650a9124ee0813f0cc3feeeb18d78ecfa1934d98 137 main/binary-amd64/Release

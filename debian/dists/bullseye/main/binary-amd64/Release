@@ -1,0 +1,5 @@
+Component: main
+Origin: oifv-ai.github.io/debian
+Label: oifv-ai.github.io/debian
+Architecture: amd64
+Description: OIFV Debian Repository

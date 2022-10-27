@@ -1,0 +1,5 @@
+Component: stable
+Origin: Computelify
+Label: OIFV.ai
+Architecture: amd64
+Description: OIFV Debian Repository

@@ -6,7 +6,7 @@ Maintainer: The Cloud Hypervisor Authors
 Installed-Size: 4670
 Priority: optional
 Section: utils
-Filename: pool/main/c/cloud-hypervisor/cloud-hypervisor_27.0.0_amd64.deb
+Filename: pool/stable/c/cloud-hypervisor/cloud-hypervisor_27.0.0_amd64.deb
 Size: 1385656
 SHA256: dc17f69f108def25895f69262f6d596625b059c5b077ec72f76dd98e370cbc1a
 SHA1: c0f2120304b9df89ee0f3dab7ace1870b51f9b2e
@@ -24,7 +24,7 @@ Installed-Size: 1996
 Depends: libcap-ng0 (>= 0.7.9), libseccomp2 (>= 0.0.0~20120605), libc6 (>= 2.28)
 Priority: optional
 Section: utils
-Filename: pool/main/v/virtiofsd/virtiofsd_1.4.0_amd64.deb
+Filename: pool/stable/v/virtiofsd/virtiofsd_1.4.0_amd64.deb
 Size: 690600
 SHA256: 71fa5d0eff9d0041962628fd65bc0ac394e088a23512fb4d646f9eb2e8ea3079
 SHA1: 122f919889e72412b28a25b49b0064f843f987cc

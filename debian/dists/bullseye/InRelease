@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Computelify
+Label: OIFV.ai
+Codename: bullseye
+Date: Thu, 27 Oct 2022 14:24:38 UTC
+Architectures: amd64
+Components: stable
+Description: OIFV Debian Repository
+MD5Sum:
+ 1f237b11d10368a1189665b06563318f 14187 stable/binary-amd64/Packages
+ d615d0be38494a60aadd2c02e538880f 5536 stable/binary-amd64/Packages.gz
+ 05d7384a5a912edb56a45be339c1e5a8 109 stable/binary-amd64/Release
+SHA1:
+ 98cc283ddad1165c8e4c084696a7469e1161b114 14187 stable/binary-amd64/Packages
+ a73ea725572e50c8d866527b1ad1a2834ab19e2c 5536 stable/binary-amd64/Packages.gz
+ f114bd17238cf2228dad71bd7516399166e76fe0 109 stable/binary-amd64/Release
+SHA256:
+ 8a5befba1c79a6fa817d580294383431986635e83773e51a943ac5753c3c7e07 14187 stable/binary-amd64/Packages
+ b2b671acaa2733052fd92073c4ff097aaced9fdf42a311afe70c074e2688df95 5536 stable/binary-amd64/Packages.gz
+ 3ca7b2a64522b8e62349e52fdc072cf5565facc71946b239ad70d02e6d1a79be 109 stable/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEwY/z/MJO74o8R6VT9GYpsYaB82YFAmNalKYACgkQ9GYpsYaB
+82bYpwv6A+k392R40u2B/iF1xRh0/gS/+0DdMLN8S034xYYUy0d9opWzWhDST9Id
+BXTSlsydhZSeJnT+ITxhzLmSYHyprHLKf+sZlA94DbrPwq2M9JOlveZO80TOcgiq
+roG4pVnYFQbloHW/nLnCCp0s559APPkiBE12HUwL/Xl9YwqAnlgLTfHAhgP8Ngng
+OF6Q/bU16yRLM+M0dTHrlCJiNWeHz3ep5SpvVPocy3uICcxgOczrZ67NpTU3jSPa
+OdQFuejC5VUf1xqFuiziKds6H/0/zEHkUlpSSsE/PkjMoi7jI0QnowEpI3/xe9NU
+DyvK/PpaxMoYG/roigqz8k5IoJ4b1y08sFsB0WMlofM7DR76MKzz8WyjODXUp9pJ
+xnqmxRTtdGelBGuCl2iKUG39q/RSz2YeWYfEL12C6N2GN0pfwt4niplIocmK9/01
+PyeGIQCfjDTlprk3ZpSuIoN9QnHEmcGQ6RP6NPS9wMFxk/SzAah3bpD+5Zt5Q1kN
+mBcEsDdj
+=g8LW
+-----END PGP SIGNATURE-----
